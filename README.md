@@ -6,4 +6,9 @@ For the purpose of this project, a dataset of 40 people have been obtained. Each
 
 ![Alt text](./image1.PNG?raw=true "Image1")
 
+<p align="center">
+  <img src="./image1.PNG" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 In figure 1, we can see in the top row, there are 40 people marked as 1, 2, 3 to 40. Each of them has 10 images. These images are in grayscale. All of these images must have to be of same dimension and resolution. Finally, the images of every individuals are kept into separate folders. In the figure 1, the s1, s2, s3 ….. s40 are representing the folders.
